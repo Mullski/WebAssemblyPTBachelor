@@ -1,0 +1,1 @@
+import wasm from "../compiledWasm/parse-wasm-build"

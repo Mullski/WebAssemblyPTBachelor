@@ -1,0 +1,1 @@
+{"rustc":2624477146670686978,"features":"[\"default\", \"i128\", \"std\"]","target":2229776039556139703,"profile":10796641224631929329,"path":8112993993899928138,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/subtle-d59ad60315075d87/dep-lib-subtle"}}],"rustflags":[],"metadata":9136318916805708739,"config":0}

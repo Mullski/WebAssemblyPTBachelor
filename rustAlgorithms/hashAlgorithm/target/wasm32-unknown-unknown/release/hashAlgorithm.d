@@ -1,0 +1,1 @@
+/Users/antonimuller/WebstormProjects/WebAssemblyPerformance/rustAlgorithms/hashAlgorithm/target/wasm32-unknown-unknown/release/hashAlgorithm.wasm: /Users/antonimuller/WebstormProjects/WebAssemblyPerformance/rustAlgorithms/hashAlgorithm/src/lib.rs build.rs

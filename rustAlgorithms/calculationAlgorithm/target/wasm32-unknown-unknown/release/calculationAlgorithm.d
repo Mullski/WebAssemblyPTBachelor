@@ -1,0 +1,1 @@
+/Users/antonimuller/WebstormProjects/WebAssemblyPerformance/rustAlgorithms/calculationAlgorithm/target/wasm32-unknown-unknown/release/calculationAlgorithm.wasm: /Users/antonimuller/WebstormProjects/WebAssemblyPerformance/rustAlgorithms/calculationAlgorithm/src/lib.rs build.rs

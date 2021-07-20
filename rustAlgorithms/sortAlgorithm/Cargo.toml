@@ -1,0 +1,20 @@
+[package]
+name = "sortAlgorithm"
+version = "0.1.0"
+authors = ["antonimuller <antoni2793@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+crate-type = ["cdylib"]
+path = "src/lib.rs"
+
+[dependencies]
+rand = { version = "0.7.3", features = ["wasm-bindgen"] }
+rsa = { version = "0.2.0", features = ["serde1"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+wasm-bindgen = "=0.2.61"
+
+

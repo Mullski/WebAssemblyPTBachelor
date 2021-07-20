@@ -1,0 +1,23 @@
+ <!--
+         <div className={"numberContainer"}>
+            <p>Random Numbers</p>
+            <div className={"resContainer"}>
+                { rnds.map((item, index) => {
+                    return(
+                        <p key={index}>{item}</p>
+                    );
+                })}
+            </div>
+        </div>
+
+        <div className={"numberContainer"}>
+            <p>Sorted Numbers</p>
+            <div className={"resContainer"}>
+                { numbersJS.map((item, index) => {
+                    return(
+                        <p key={index}>{item}</p>
+                    );
+                })}
+            </div>
+        </div>
+      -->

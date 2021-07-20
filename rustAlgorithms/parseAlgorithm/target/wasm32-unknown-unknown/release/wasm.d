@@ -1,0 +1,1 @@
+/Users/antonimuller/WebstormProjects/WebAssemblyPerformance/rustAlgorithms/parseAlgorithm/target/wasm32-unknown-unknown/release/wasm.wasm: /Users/antonimuller/WebstormProjects/WebAssemblyPerformance/rustAlgorithms/parseAlgorithm/src/lib.rs build.rs

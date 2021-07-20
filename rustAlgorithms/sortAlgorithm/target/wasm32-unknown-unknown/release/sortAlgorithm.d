@@ -1,0 +1,1 @@
+/Users/antonimuller/WebstormProjects/WebAssemblyPerformance/sortAlgorithm/target/wasm32-unknown-unknown/release/sortAlgorithm.wasm: /Users/antonimuller/WebstormProjects/WebAssemblyPerformance/sortAlgorithm/src/lib.rs build.rs
