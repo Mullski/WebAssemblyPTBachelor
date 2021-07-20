@@ -1,0 +1,15 @@
+{
+  "name": "hashAlgorithm",
+  "collaborators": [
+    "antonimuller <antoni2793@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "hashAlgorithm_bg.wasm",
+    "hashAlgorithm.js",
+    "hashAlgorithm.d.ts"
+  ],
+  "module": "hashAlgorithm.js",
+  "types": "hashAlgorithm.d.ts",
+  "sideEffects": false
+}

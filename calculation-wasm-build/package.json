@@ -1,0 +1,15 @@
+{
+  "name": "calculationAlgorithm",
+  "collaborators": [
+    "antonimuller <antoni2793@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "calculationAlgorithm_bg.wasm",
+    "calculationAlgorithm.js",
+    "calculationAlgorithm.d.ts"
+  ],
+  "module": "calculationAlgorithm.js",
+  "types": "calculationAlgorithm.d.ts",
+  "sideEffects": false
+}

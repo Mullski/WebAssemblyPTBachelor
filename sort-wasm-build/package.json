@@ -1,0 +1,15 @@
+{
+  "name": "sortAlgorithm",
+  "collaborators": [
+    "antonimuller <antoni2793@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "sortAlgorithm_bg.wasm",
+    "sortAlgorithm.js",
+    "sortAlgorithm.d.ts"
+  ],
+  "module": "sortAlgorithm.js",
+  "types": "sortAlgorithm.d.ts",
+  "sideEffects": false
+}
