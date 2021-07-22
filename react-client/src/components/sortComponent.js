@@ -163,8 +163,8 @@ export const sortComponent = ()=>{
             <li>Step 3: sort 10000 random Integers </li>
         </ul>
         <div className={"optionCnt"}>
-            <button className={"btn btn-primary"} onClick={testSortWASM}>SortWASM</button>
-            <button className={"btn btn-primary"} onClick={testSortJS}>SortJS</button>
+            <button className={"btn btn-primary"} onClick={testSortWASM}>Sort Rust</button>
+            <button className={"btn btn-primary"} onClick={testSortJS}>Sort JS</button>
             <Select className={"selectOptions"} options={options}  onChange={setSelect} defaultValue={checkFunc()} />
         </div>
         <div className={"chartsCnt"}>

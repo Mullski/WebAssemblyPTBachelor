@@ -156,8 +156,8 @@ export const cryptoComponent = ()=>{
             <li>Step 3: hash 2000000 char long String </li>
         </ul>
         <div className={"optionCnt"}>
-            <button className={"btn btn-primary"} onClick={testWasm}>Rust Hash</button>
-            <button className={"btn btn-primary"} onClick={testJS}>JavaScript Hash</button>
+            <button className={"btn btn-primary"} onClick={testWasm}>Hash Rust</button>
+            <button className={"btn btn-primary"} onClick={testJS}>Hash JS</button>
             <Select className={"selectOptions"} options={options}  onChange={setSelect} defaultValue={checkFunc()} />
         </div>
         <div className={"chartsCnt"}>

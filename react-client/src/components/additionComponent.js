@@ -157,8 +157,8 @@ export const cryptoComponent = ()=>{
             <li>Step 3: add 400000 random Integers </li>
         </ul>
         <div className={"optionCnt"}>
-            <button className={"btn btn-primary"} onClick={testWasm}>Rust Add Array</button>
-            <button className={"btn btn-primary"} onClick={testJS}>JS Add</button>
+            <button className={"btn btn-primary"} onClick={testWasm}>Add Rust</button>
+            <button className={"btn btn-primary"} onClick={testJS}>Add JS</button>
             <Select className={"selectOptions"} options={options}  onChange={setSelect} defaultValue={checkFunc()} />
         </div>
         <div className={"chartsCnt"}>

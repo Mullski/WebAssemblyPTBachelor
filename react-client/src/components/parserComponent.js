@@ -91,7 +91,6 @@ export const parserComponent = ()=>{
     const testJS =async()=>{
         let resJS = await parseFileJS();
         setDataJS(resJS);
-        //console.log(resJS);
         setRenderCharts(true);
     };
 
@@ -150,8 +149,8 @@ export const parserComponent = ()=>{
             <li>Step 3: filter 150 Events in ICS String</li>
         </ul>
         <div className={"optionCnt"}>
-            <button className={"btn btn-primary"} onClick={testWasm}>ParseWasm</button>
-            <button className={"btn btn-primary"} onClick={testJS}>ParseJS</button>
+            <button className={"btn btn-primary"} onClick={testWasm}>Parse Wasm</button>
+            <button className={"btn btn-primary"} onClick={testJS}>Parse JS</button>
             <Select className={"selectOptions"} options={options}  onChange={setSelect} defaultValue={checkFunc()} />
         </div>
         <div className={"chartsCnt"}>
